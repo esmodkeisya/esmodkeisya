@@ -1,10 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Hi%20👋%20I'm%20NAMAMU&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-# Hi 👋, I'm Keisya
-
-### Aspiring Developer | 11th-Grade Student
-
-*Learning to code, solving problems, and building things step by step.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Aspiring+Developer;11th-Grade+Student;Learning+to+code+every+day;Open+to+mentorship+%26+collaboration" />
 
 </div>
 
@@ -20,17 +18,17 @@ and eager to be mentored by more experienced developers.
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/esmodkeisya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:esmodkeisya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF8C00?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/6287746080586">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/628123456789">
+    <img src="https://img.shields.io/badge/WhatsApp-FF8C00?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://instagram.com/notaloneonearth_u">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/USERNAME_IG">
+    <img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -40,8 +38,23 @@ and eager to be mentored by more experienced developers.
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=C9D1D9&ring_color=FF8C00" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9" />
+</p>
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=USERNAME&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" />
+</p>
+
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D1117&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&area_color=FF8C00&hide_border=true" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer" width="100%" />

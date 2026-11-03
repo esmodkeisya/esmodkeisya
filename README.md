@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**esmodkeisya/esmodkeisya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Keisya Az-zahra Putricahya
 
-Here are some ideas to get you started:
+### Aspiring Developer | 11th-Grade Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Learning to code, solving problems, and building things step by step.*
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm an 11th-grade student studying programming as part of my school major.
+I may not know every language yet, but I give my best effort to understand
+and solve every problem in front of me. I'm a fast learner, open to feedback,
+and eager to be mentored by more experienced developers.
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=dark" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark" />
+</p>

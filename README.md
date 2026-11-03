@@ -39,9 +39,3 @@ and eager to be mentored by more experienced developers.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark" />
-</p>

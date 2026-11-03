@@ -37,5 +37,5 @@ and eager to be mentored by more experienced developers.
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,typescript,figma,github,vscode" />
 </p>

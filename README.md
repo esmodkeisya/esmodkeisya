@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Hi%20👋%20I'm%20NAMAMU&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/28/e7/23/28e7231e5325f5ecdc323df643e3a7cf.jpg" width="100%" />
+</p>
 
 <div align="center">
 
@@ -57,4 +59,6 @@ and eager to be mentored by more experienced developers.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D1117&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&area_color=FF8C00&hide_border=true" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer" width="100%" />
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/97/02/cc/9702cc19f136e7c74db1016831c67138.jpg" width="100%" />
+</p>
